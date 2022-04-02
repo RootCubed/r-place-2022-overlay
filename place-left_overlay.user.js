@@ -6,8 +6,8 @@
 // @author       /r/switzerland credits: oralekin from osu! /r/osuplace, maintainer /u/irate_kalypso /r/starwars_place
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://raw.githubusercontent.com/placeCH/r-place-2022-overlay/main/place-left_overlay.user.js
-// @downloadURL  https://raw.githubusercontent.com/placeCH/r-place-2022-overlay/main/place-left_overlay.user.js
+// @updateURL    https://github.com/placeCH/r-place-2022-overlay/raw/main/place-left_overlay.user.js
+// @downloadURL  https://github.com/placeCH/r-place-2022-overlay/raw/main/place-left_overlay.user.js
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
