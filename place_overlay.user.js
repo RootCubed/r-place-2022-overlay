@@ -14,7 +14,7 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         // Load the image
         const image = document.createElement("img");
-        image.src = "https://github.com/RootCubed/r-place-2022/raw/overlay_allies.png";
+        image.src = "https://raw.githubusercontent.com/RootCubed/r-place-2022-overlay/main/rplace_allies_overlay.png";
         image.onload = () => {
             image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
         };
