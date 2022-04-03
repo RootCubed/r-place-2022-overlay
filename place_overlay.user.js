@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/starwars_place Allies
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      1.0
 // @description  Keep the canvas beautiful!
 // @author       /r/switzerland credits: oralekin from osu! /r/osuplace, maintainer /u/irate_kalypso /r/starwars_place
 // @match        https://hot-potato.reddit.com/embed*
@@ -14,7 +14,7 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         // Load the image
         const image = document.createElement("img");
-        image.src = "https://raw.githubusercontent.com/RootCubed/r-place-2022-overlay/main/rplace_allies_overlay.png";
+        image.src = "https://raw.githubusercontent.com/RootCubed/r-place-2022-overlay/main/rplace_allies_overlay.png?t=1648979822";
         image.onload = () => {
             image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
         };
