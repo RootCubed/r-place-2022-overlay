@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/starwars_place Allies
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Keep the canvas beautiful!
 // @author       oralekin from osu! /r/osuplace, maintainer /u/irate_kalypso /r/starwars_place, overlay list by RootCubed
 // @match        https://hot-potato.reddit.com/embed*
