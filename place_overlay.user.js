@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/starwars_place Allies
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  Keep the canvas beautiful!
 // @author       oralekin from osu! /r/osuplace, maintainer /u/irate_kalypso /r/starwars_place, overlay list by RootCubed
 // @match        https://hot-potato.reddit.com/embed*
@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 const overlays = [
-    "https://cdn.discordapp.com/attachments/960020069553942538/960020540788199454/overlay_v90.png", // Some others
+    "https://hannahplace.s3.amazonaws.com/overlay_full.png", // Some others
     "https://cdn.mirai.gg/tmp/dotted-place-template.png", // Star Wars & Main allies
     "https://raw.githubusercontent.com/RootCubed/r-place-2022-overlay/main/rplace_switzerland_overlay.png" // Switzerland
 ];
