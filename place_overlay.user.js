@@ -14,7 +14,6 @@
 const overlays = [
     "https://hannahplace.s3.amazonaws.com/overlay_full.png", // Some others
     "https://cdn.mirai.gg/tmp/dotted-place-template.png", // Star Wars & Main allies
-    "https://raw.githubusercontent.com/r-placestart/overlay/main/overlay.png", // r/placestart
     "https://raw.githubusercontent.com/RootCubed/r-place-2022-overlay/main/rplace_switzerland_overlay.png" // Switzerland
 ];
 
